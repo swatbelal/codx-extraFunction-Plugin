@@ -1,4 +1,4 @@
-##extraFunctions plugin
+## extraFunctions plugin
 This plugins adds some simple extra functions into codx server.
 
 To install put extraFunctions.dll (for windows) or extraFunctions.so (for linux) into a plugins folder in your Call of Duty 4 root folder.
@@ -7,13 +7,13 @@ To load plugin add this line to your servers start script
 
     +loadplugin extraFunctions
 
-##Download
+## Download
 [Linux Binaries](https://www.dropbox.com/s/0627mvtfwfm6pvk/extraFunctions.so?dl=0)
 
 [Windows Binaries](https://www.dropbox.com/s/otnsithi5fjynnm/extraFunctions.dll?dl=0)
 
 
-##List of Functions
+## List of Functions
 
 
 ### isStringInt(<string>)
