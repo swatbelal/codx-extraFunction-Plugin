@@ -273,6 +273,6 @@ PCL void OnInfoRequest(pluginInfo_t *info){	// Function used to obtain informati
     info->pluginVersion.major = 1;
     info->pluginVersion.minor = 0;	// Plugin version
     strncpy(info->fullName,"Extra Functions",sizeof(info->fullName)); //Full plugin name
-    strncpy(info->shortDescription,"Adds some extra functions to codx server",sizeof(info->shortDescription)); // Short plugin description
-    strncpy(info->longDescription,"Adds some extra functions to codx server",sizeof(info->longDescription));
+    strncpy(info->shortDescription,"Adds some extra functions to cod 1.7a server",sizeof(info->shortDescription)); // Short plugin description
+    strncpy(info->longDescription,"Adds some extra functions to cod 1.7a server",sizeof(info->longDescription));
 }
